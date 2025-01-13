@@ -1,0 +1,7 @@
+streamlit
+pillow 
+opencv-python-headless  
+numpy
+plotly
+reportlab
+tensorflow==2.11.0
